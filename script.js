@@ -11,7 +11,6 @@ let itemsToExpand = [
     'exp-2-com-more', 'exp-2-ach-more', 'exp-2-cat-more', 'exp-2-man-more', 
     'exp-1-com-more', 'exp-1-ach-more', 'exp-1-cat-more', 'exp-1-man-more', 
 
-    // 'edu-4-est-more', 
     'edu-3-est-more', 
     'edu-2-est-more', 
     'edu-1-est-more', 
@@ -27,7 +26,6 @@ let itemsToBold = [
     'exp-3-com', 'exp-3-ach', 'exp-3-cat', 'exp-3-man', 
     'exp-2-com', 'exp-2-ach', 'exp-2-cat', 'exp-2-man', 
     'exp-1-com', 'exp-1-ach', 'exp-1-cat', 'exp-1-man', 
-    // 'edu-4-est',
     'edu-3-est', 'edu-2-est', 'edu-1-est', 'tra-4-est',
 
     'tra-4-des', 
@@ -105,7 +103,6 @@ toggleMore('exp-1-cat', 'exp-1-cat-more');
 toggleMore('exp-1-ach', 'exp-1-ach-more');
 toggleMore('exp-1-man', 'exp-1-man-more');
 
-// toggleMore('edu-4-est', 'edu-4-est-more');
 toggleMore('edu-3-est', 'edu-3-est-more');
 toggleMore('edu-2-est', 'edu-2-est-more');
 toggleMore('edu-1-est', 'edu-1-est-more');
